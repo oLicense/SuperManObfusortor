@@ -1,2 +1,2 @@
-# SuperManObfusortor
-SuperManObfusortor
+# SuperManobfuscator
+SuperManobfuscator
